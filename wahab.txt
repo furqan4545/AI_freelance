@@ -1,0 +1,58 @@
+Return-Path: <>
+Received: from box5610.bluehost.com
+	by box5610.bluehost.com with LMTP
+	id 6MVgN3Nx817SvwEASM+5zQ
+	(envelope-from <>); Wed, 24 Jun 2020 09:29:55 -0600
+Return-path: <>
+Envelope-to: jean@hfikri.com
+Delivery-date: Wed, 24 Jun 2020 09:29:55 -0600
+Received: from mx127.antispamcloud.com ([38.89.254.163]:51230)
+	by box5610.bluehost.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	id 1jo7LX-000hWJ-LS
+	for jean@hfikri.com; Wed, 24 Jun 2020 09:29:55 -0600
+Received: from gateway34.websitewelcome.com ([192.185.149.62])
+	by mx127.antispamcloud.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	id 1jo7LL-0006F2-Br
+	for jean@hfikri.com; Wed, 24 Jun 2020 17:29:45 +0200
+Received: by gateway34.websitewelcome.com (Postfix)
+	id 5F8C546552; Wed, 24 Jun 2020 10:29:42 -0500 (CDT)
+Date: Wed, 24 Jun 2020 10:29:42 -0500 (CDT)
+From: MAILER-DAEMON@gateway34.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: jean@hfikri.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="E35BA46546.1593012582/gateway34.websitewelcome.com"
+Message-Id: <20200624152942.5F8C546552@gateway34.websitewelcome.com>
+Received-SPF: pass (mx127.antispamcloud.com: domain of gateway34.websitewelcome.com designates 192.185.149.62 as permitted sender) client-ip=192.185.149.62; envelope-from=postmaster@gateway34.websitewelcome.com; helo=gateway34.websitewelcome.com;
+X-SPF-Result: mx127.antispamcloud.com: domain of gateway34.websitewelcome.com designates 192.185.149.62 as permitted sender
+X-Sender-Warning: gateway34.websitewelcome.com has no MX records
+Authentication-Results: mx127.antispamcloud.com;
+	iprev=pass (gateway34.websitewelcome.com) smtp.remote-ip=192.185.149.62;
+	spf=pass smtp.mailfrom=<>;
+	dmarc=pass header.from=gateway34.websitewelcome.com
+Authentication-Results:  antispamcloud.com; spf=pass
+X-Spampanel-Class: unsure
+X-Spampanel-Evidence: Combined (0.20)
+X-Recommended-Action: accept
+X-Filter-ID: Mvzo4OR0dZXEDF/gcnlw0f6LF1GdvkEexklpcFpSF5apSDasLI4SayDByyq9LIhVjI7io6hicvLk
+ X4Q4Ry7tG0TNWdUk1Ol2OGx3IfrIJKywOmJyM1qr8uRnWBrbSAGDVlxUUPQSTHnwav0QZBJG2MRX
+ qYbtEQV1z/L435ZRxFTQcRHBLEcnXvQ5yISMWJje5EYKk9ePgXGbt5xuMhAKmy4vHKfif9uSccCn
+ UqrOs4Eik6/Vabprvgjfg4qyN5v/ZnvBUmYAD0T/UDk7jlMguKw/zM1e6TBpuNxWWahKbv7Uil9O
+ DvPCUmM9mrx705JZVv+NCAE6ivlT8KEICP6Yzp/8bd830RTFYhyjAlzWO82QDSdTmwBEBCI2FjyD
+ VZx8ZE0ppKkqgVo566R9fvL5/LoJP0zWy1ahRPJtGpTknvTfX8TdqEXkwxwMjsp2mNApL1+PT44c
+ 1Q+KSBdbpyis3iERbInMiTBIUBbQ/Dy6Ip7v0iv8x7tEAnlxVWRyrpoi3bNi89N34NOk8FmhnAa/
+ kSJpUE1+mu4pmBwR8uk+aHDFne5xEzZgn8vHYrXSYStmGplHcpVCCoX989hgB8R+yCtl/vuhuY24
+ PlH+T8U8Gw7Wd1s6HcVsLPLnG5EWQ9MUfq332g5oN27z9f4BeV4pwR6hAWMtIwjFOMtc8Uecm6Yi
+ /lx4EWErafWpYqXxkOS3wF3yEY6H+psJm+ShAQlTco5Gq0OpeekJ3DeOpRABBRSnt6dIszSwMc4t
+ alyN2WMlWntJ/RsH4iaebuAY52lTxDwJWw42swm4bO6gacpMpzJGR8ZUnDzSG462DBpNdzCsXd0a
+ AIo/fwnQKHseVPK491SOEDV3Hu+Uq+8grjvKUj5J50hZ7l05AV6L3+E5/Eakj2jeU2bHZl34Q8na
+ hQqNSQ03R+dC8dVwg9EvJV/whA7wBTL1+6vDOMemz/4I88NDenNjSzNegz8rC5XN8r8PWQ==
+X-Report-Abuse-To: spam@quarantine4.antispamcloud.com
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Spam-Flag: NO

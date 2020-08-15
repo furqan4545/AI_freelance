@@ -1,0 +1,1000 @@
+ID,gender,Management,USAcitizen,Married,MonthsInUnion,ContinuingEd,FeatureA,Connectivity,FeatureC,FeatureD,FeatureE,FeatureF,FeatureG,FeatureB,DuesFrequency,PaperlessBilling,PaymentMethod,MonthlyDues,TotalDues,LeftUnion
+Zakaria 1-17130,Male,0,No,No,26,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,2147,No
+Zakaria 2-15253,Female,0,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,3415,No
+Zakaria 3-15514,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,No
+Zakaria 4-16155,Male,1,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,71,71,Yes
+Zakaria 5-19020,Male,1,Yes,No,62,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,104,6383,Yes
+Zakaria 6-18873,Male,1,Yes,No,39,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,4285,Yes
+Zakaria 7-15530,Female,0,No,No,15,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),25,400,Yes
+Zakaria 8-17225,Male,0,Yes,No,24,No,Maryville,DSL,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,29,688,No
+Zakaria 9-16211,Female,0,No,No,58,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,95,5818,No
+Zakaria 10-19855,Male,0,No,No,64,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,One year,Yes,Credit card (automatic),84,5289,No
+Zakaria 11-18676,Female,0,Yes,No,10,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,188,No
+Zakaria 12-18257,Male,0,No,No,16,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),71,1212,No
+Zakaria 13-15445,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116,8425,No
+Zakaria 14-18904,Male,0,Yes,Yes,41,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,One year,No,Bank transfer (automatic),69,2840,No
+Zakaria 15-15026,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1874,No
+Zakaria 16-17476,Male,0,Yes,Yes,53,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,79,3942,No
+Zakaria 17-16744,Male,1,No,No,17,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,102,1752,No
+Zakaria 18-16895,Female,1,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,19,19,Yes
+Zakaria 19-19136,Male,1,Yes,No,20,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74,1464,Yes
+Zakaria 20-19639,Male,0,Yes,Yes,42,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,No,Electronic check,97,4017,No
+Zakaria 21-18548,Male,0,Yes,Yes,8,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,153,No
+Zakaria 22-19038,Male,1,Yes,No,7,No,Maryville,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),30,220,No
+Zakaria 23-19095,Female,0,Yes,No,56,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),106,6069,No
+Zakaria 24-18405,Male,0,Yes,Yes,4,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,84,No
+Zakaria 25-19846,Female,0,Yes,Yes,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),108,7931,No
+Zakaria 26-18970,Male,0,Yes,Yes,26,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84,2071,Yes
+Zakaria 27-16570,Male,1,Yes,No,51,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),94,4751,Yes
+Zakaria 28-17925,Male,0,No,No,14,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,284,No
+Zakaria 29-19210,Female,0,Yes,Yes,24,Yes,Yes,DSL,Yes,Yes,No,No,Yes,Yes,One year,No,Electronic check,78,1832,No
+Zakaria 30-15859,Male,1,No,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,81,2088,No
+Zakaria 31-19718,Female,0,No,No,6,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,55,323,No
+Zakaria 32-15793,Female,0,Yes,Yes,24,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),79,1847,No
+Zakaria 33-17418,Female,1,No,Yes,30,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,101,2975,No
+Zakaria 34-19554,Female,0,Yes,No,36,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,80,2938,No
+Zakaria 35-17423,Female,0,No,No,35,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),19,618,No
+Zakaria 36-15052,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,341,Yes
+Zakaria 37-16279,Male,0,No,No,28,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),18,535,No
+Zakaria 38-16820,Male,0,Yes,No,52,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Electronic check,84,4349,Yes
+Zakaria 39-17837,Female,0,No,No,2,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,76,161,Yes
+Zakaria 40-15925,Male,0,Yes,Yes,14,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,65,938,Yes
+Zakaria 41-16053,Female,0,No,No,3,No,Maryville,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,34,139,Yes
+Zakaria 42-19059,Female,0,No,No,15,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,320,No
+Zakaria 43-15186,Female,0,No,No,9,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,66,621,Yes
+Zakaria 44-15433,Female,0,Yes,No,71,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),67,4689,No
+Zakaria 45-16625,Female,1,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,75,158,Yes
+Zakaria 46-18805,Female,0,No,No,47,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,74,3510,No
+Zakaria 47-15306,Female,0,Yes,Yes,16,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),101,1523,No
+Zakaria 48-15743,Male,0,Yes,No,13,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Mailed check,75,989,Yes
+Zakaria 49-17427,Female,0,Yes,Yes,42,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,100,4304,No
+Zakaria 50-19952,Male,0,No,No,2,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,49,97,No
+Zakaria 51-16285,Male,1,Yes,No,46,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,3605,Yes
+Zakaria 52-16107,Male,0,Yes,No,42,Yes,Yes,DSL,Yes,No,No,No,No,No,One year,No,Credit card (automatic),56,2387,No
+Zakaria 53-19836,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,135,No
+Zakaria 54-19609,Male,0,No,Yes,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44,44,No
+Zakaria 55-15953,Female,0,No,No,14,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),71,914,Yes
+Zakaria 56-16501,Female,1,Yes,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,154,No
+Zakaria 57-16429,Male,0,No,No,17,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,311,No
+Zakaria 58-15994,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),68,4805,No
+Zakaria 59-17066,Male,1,Yes,No,55,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,114,6293,No
+Zakaria 60-16112,Female,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),107,7677,No
+Zakaria 61-17501,Female,0,Yes,No,4,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,93,No
+Zakaria 62-16808,Male,0,Yes,Yes,66,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),55,3632,No
+Zakaria 63-16277,Female,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,39,Yes
+Zakaria 64-17265,Female,0,Yes,No,1,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,55,55,No
+Zakaria 65-16618,Male,1,Yes,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,95,Yes
+Zakaria 66-15827,Male,0,No,No,9,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,186,Yes
+Zakaria 67-15231,Male,0,Yes,Yes,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,20,No
+Zakaria 68-19047,Female,0,No,No,8,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,76,536,No
+Zakaria 69-15779,Female,0,No,No,48,Yes,No,Fiber optic,No,Yes,No,No,No,No,One year,No,Electronic check,75,3773,No
+Zakaria 70-17605,Female,0,Yes,Yes,33,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Mailed check,104,3467,Yes
+Zakaria 71-16375,Male,1,Yes,No,37,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),72,2575,No
+Zakaria 72-16387,Male,0,No,No,41,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),100,4220,No
+Zakaria 73-15200,Female,1,No,No,36,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,2659,No
+Zakaria 74-18775,Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76,143,Yes
+Zakaria 75-18316,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,85,6083,No
+Zakaria 76-17954,Male,0,No,No,7,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,129,No
+Zakaria 77-17074,Male,0,No,No,11,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75,825,Yes
+Zakaria 78-17175,Male,0,Yes,No,39,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,790,No
+Zakaria 79-19799,Male,0,No,Yes,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,21,No
+Zakaria 80-17202,Female,0,Yes,No,55,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),90,4960,No
+Zakaria 81-16980,Male,1,No,No,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1672,No
+Zakaria 82-17906,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),80,5811,No
+Zakaria 83-17579,Female,0,No,No,11,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,No,Bank transfer (automatic),54,652,No
+Zakaria 84-15511,Male,0,Yes,Yes,4,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),24,73,No
+Zakaria 85-17429,Female,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1872,No
+Zakaria 86-17138,Male,1,No,No,67,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),101,6841,No
+Zakaria 87-19445,Female,0,Yes,Yes,23,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),26,515,No
+Zakaria 88-16541,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+Zakaria 89-18511,Female,0,No,No,56,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,107,5914,No
+Zakaria 90-16673,Male,0,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,86,339,Yes
+Zakaria 91-19115,Female,0,Yes,No,67,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,111,7512,No
+Zakaria 92-16766,Male,0,Yes,Yes,36,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,No,Mailed check,54,1939,No
+Zakaria 93-17939,Male,0,Yes,Yes,37,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,93,3415,No
+Zakaria 94-19860,Male,0,No,Yes,57,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,1171,No
+Zakaria 95-19337,Female,0,No,No,10,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,429,No
+Zakaria 96-15500,Female,0,Yes,Yes,11,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,20,196,No
+Zakaria 97-17295,Female,0,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,50,50,Yes
+Zakaria 98-18878,Male,0,No,No,20,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),71,1494,No
+Zakaria 99-19782,Male,0,Yes,Yes,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),45,3140,No
+Zakaria 100-15419,Male,0,No,No,31,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,81,2641,No
+Zakaria 101-17525,Female,0,Yes,Yes,6,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,119,No
+Zakaria 102-16971,Female,0,No,No,8,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,138,No
+Zakaria 103-17904,Female,0,No,No,18,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,392,No
+Zakaria 104-17599,Female,0,Yes,No,12,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),50,617,No
+Zakaria 105-15096,Female,0,No,No,24,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Credit card (automatic),56,1381,No
+Zakaria 106-15679,Male,0,No,No,65,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),110,7139,No
+Zakaria 107-16271,Female,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,97,292,Yes
+Zakaria 108-17776,Male,0,Yes,Yes,38,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),101,3957,No
+Zakaria 109-17483,Female,0,No,No,64,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),115,7334,No
+Zakaria 110-18510,Male,0,No,No,1,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,51,51,No
+Zakaria 111-16546,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45,45,No
+Zakaria 112-19397,Male,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,48,No
+Zakaria 113-19033,Male,1,No,No,8,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),100,832,Yes
+Zakaria 114-18362,Female,0,No,No,48,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),24,1134,No
+Zakaria 115-17223,Male,1,Yes,No,53,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Electronic check,60,3230,Yes
+Zakaria 116-15417,Male,0,No,No,58,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,1212,No
+Zakaria 117-15575,Male,0,No,No,33,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),66,2245,No
+Zakaria 118-18694,Male,1,Yes,No,15,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),86,1346,Yes
+Zakaria 119-15113,Male,1,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),112,8023,No
+Zakaria 120-18841,Female,1,Yes,No,62,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),98,5937,No
+Zakaria 121-17770,Female,1,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),104,7349,No
+Zakaria 122-18449,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,Yes
+Zakaria 123-17029,Female,0,Yes,Yes,65,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,109,7338,No
+Zakaria 124-18234,Male,0,Yes,Yes,63,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Mailed check,76,4677,No
+Zakaria 125-15724,Male,0,No,No,45,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),19,867,No
+Zakaria 126-16503,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Zakaria 127-19736,Male,1,Yes,No,57,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90,4925,No
+Zakaria 128-17387,Male,0,Yes,No,10,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,738,Yes
+Zakaria 129-15194,Female,0,No,No,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,119,7366,No
+Zakaria 130-16060,Female,0,No,No,2,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,51,123,No
+Zakaria 131-15913,Female,0,No,No,30,No,Maryville,DSL,No,No,No,Yes,No,Yes,One year,Yes,Credit card (automatic),40,1187,No
+Zakaria 132-18066,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Zakaria 133-19283,Male,0,No,No,46,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89,4246,No
+Zakaria 134-19161,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44,44,Yes
+Zakaria 135-19248,Female,0,No,No,27,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,57,1653,No
+Zakaria 136-18885,Female,0,Yes,No,37,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),79,2840,Yes
+Zakaria 137-18087,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),106,7657,No
+Zakaria 138-17709,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,107,7577,No
+Zakaria 139-17474,Male,0,No,Yes,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1530,No
+Zakaria 140-16346,Female,1,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,25,Yes
+Zakaria 141-18043,Female,0,Yes,Yes,49,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95,4614,No
+Zakaria 142-19579,Female,1,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,75,Yes
+Zakaria 143-15404,Female,0,Yes,Yes,21,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,103,2110,Yes
+Zakaria 144-15693,Female,0,Yes,No,29,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,522,No
+Zakaria 145-19352,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,Yes
+Zakaria 146-16351,Male,1,No,No,8,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,573,No
+Zakaria 147-16732,Female,0,Yes,Yes,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1461,No
+Zakaria 148-15525,Female,1,Yes,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),98,2511,No
+Zakaria 149-17156,Female,0,No,No,4,No,Maryville,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,48,202,No
+Zakaria 150-19796,Male,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,No,Electronic check,106,7406,No
+Zakaria 151-19584,Female,1,Yes,No,48,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),71,3545,No
+Zakaria 152-16450,Male,0,No,No,71,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,One year,No,Credit card (automatic),98,6688,No
+Zakaria 153-17110,Female,1,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71,71,Yes
+Zakaria 154-15812,Male,0,No,Yes,62,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,104,6591,No
+Zakaria 155-16721,Male,0,Yes,Yes,13,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,219,No
+Zakaria 156-15761,Male,0,No,No,5,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,70,346,Yes
+Zakaria 157-19896,Male,0,No,No,38,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),95,3606,No
+Zakaria 158-19035,Female,1,No,No,56,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),73,4054,No
+Zakaria 159-16042,Female,0,Yes,No,6,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105,545,Yes
+Zakaria 160-19569,Female,0,Yes,No,68,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),58,3976,No
+Zakaria 161-16906,Female,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25,25,Yes
+Zakaria 162-16449,Male,0,Yes,Yes,61,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),68,4158,No
+Zakaria 163-17229,Female,0,No,No,15,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,297,Yes
+Zakaria 164-19480,Female,1,Yes,No,27,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,1929,Yes
+Zakaria 165-19359,Male,0,Yes,No,10,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,855,Yes
+Zakaria 166-16044,Male,1,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,1564,No
+Zakaria 167-19141,Male,0,No,No,1,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,51,51,Yes
+Zakaria 168-16959,Male,1,Yes,No,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),64,4641,No
+Zakaria 169-17489,Female,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),25,1841,No
+Zakaria 170-18011,Female,0,Yes,Yes,25,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),89,2258,Yes
+Zakaria 171-17920,Male,0,Yes,Yes,16,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,Yes,Mailed check,56,858,No
+Zakaria 172-15327,Female,0,No,No,25,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,2388,Yes
+Zakaria 173-17019,Male,1,No,No,57,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,Yes,Electronic check,54,3036,No
+Zakaria 174-19274,Male,1,Yes,No,33,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,3106,Yes
+Zakaria 175-18325,Female,0,Yes,No,41,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),114,4595,Yes
+Zakaria 176-15284,Female,0,Yes,Yes,65,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,90,5958,No
+Zakaria 177-16206,Female,1,No,No,26,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91,2352,Yes
+Zakaria 178-17174,Male,0,Yes,No,63,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,1238,No
+Zakaria 179-18561,Male,0,No,No,27,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,49,1291,No
+Zakaria 180-16836,Male,0,No,No,19,Yes,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,70,1395,No
+Zakaria 181-18767,Male,0,No,No,20,Yes,No,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),64,1399,No
+Zakaria 182-15518,Female,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69,69,Yes
+Zakaria 183-19190,Male,0,Yes,No,40,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,4113,Yes
+Zakaria 184-16707,Female,0,Yes,Yes,24,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,55,1320,No
+Zakaria 185-17619,Male,1,Yes,No,32,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),106,3521,Yes
+Zakaria 186-17315,Female,0,No,No,7,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,80,605,Yes
+Zakaria 187-19490,Female,0,Yes,Yes,6,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,81,503,Yes
+Zakaria 188-19979,Female,0,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,90,1863,No
+Zakaria 189-16850,Female,0,No,No,47,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),75,3545,No
+Zakaria 190-17791,Female,0,Yes,No,7,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,86,587,Yes
+Zakaria 191-15622,Female,0,No,No,45,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,100,4484,No
+Zakaria 192-19232,Male,0,No,No,22,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,79,1600,No
+Zakaria 193-19905,Female,0,No,No,65,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),111,7107,No
+Zakaria 194-19932,Male,0,Yes,No,47,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Electronic check,79,3650,No
+Zakaria 195-19024,Female,0,Yes,Yes,59,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),76,4542,No
+Zakaria 196-18289,Male,1,No,No,30,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),69,2094,No
+Zakaria 197-18685,Male,0,Yes,No,47,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110,5125,Yes
+Zakaria 198-19488,Male,1,Yes,Yes,20,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,No,Credit card (automatic),94,1818,No
+Zakaria 199-16414,Male,0,Yes,No,8,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,75,658,No
+Zakaria 200-16697,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Zakaria 201-15488,Female,0,No,No,38,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),68,2656,No
+Zakaria 202-16756,Male,0,No,Yes,5,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,107,No
+Zakaria 203-15338,Female,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,32,Yes
+Zakaria 204-16497,Female,0,Yes,Yes,59,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Mailed check,76,4520,No
+Zakaria 205-15124,Female,0,No,No,38,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),84,3234,Yes
+Zakaria 206-19487,Male,0,No,No,61,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,6300,No
+Zakaria 207-15976,Female,0,No,No,10,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,163,No
+Zakaria 208-16092,Female,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,79,79,Yes
+Zakaria 209-19374,Female,0,No,No,7,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,138,Yes
+Zakaria 210-16688,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78,78,Yes
+Zakaria 211-17325,Male,0,No,No,22,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),101,2317,Yes
+Zakaria 212-15499,Female,0,No,Yes,12,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,78,909,Yes
+Zakaria 213-17286,Male,0,No,No,8,No,Maryville,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,29,216,No
+Zakaria 214-18309,Male,0,Yes,Yes,7,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,59,466,No
+Zakaria 215-15147,Female,1,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,205,Yes
+Zakaria 216-17731,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),114,8124,No
+Zakaria 217-17249,Male,0,Yes,Yes,34,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),77,2754,No
+Zakaria 218-17195,Female,0,No,No,43,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,779,No
+Zakaria 219-15917,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Zakaria 220-16878,Female,0,Yes,No,69,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),25,1718,No
+Zakaria 221-19181,Female,0,Yes,Yes,55,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),104,5657,No
+Zakaria 222-17024,Male,0,No,No,28,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),95,2659,Yes
+Zakaria 223-18295,Male,0,No,No,11,No,Maryville,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,36,425,No
+Zakaria 224-17902,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,19,19,Yes
+Zakaria 225-15385,Female,1,No,No,54,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80,4370,Yes
+Zakaria 226-17339,Female,0,No,No,61,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),86,5175,No
+Zakaria 227-16563,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),71,158,No
+Zakaria 228-15768,Male,0,No,No,11,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,792,Yes
+Zakaria 229-17842,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,81,184,Yes
+Zakaria 230-16621,Male,0,Yes,No,68,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1629,No
+Zakaria 231-18088,Female,0,Yes,Yes,5,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,31,167,No
+Zakaria 232-16837,Male,0,No,No,14,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,19,325,No
+Zakaria 233-16452,Male,0,Yes,No,71,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,83,6126,No
+Zakaria 234-19079,Female,0,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,105,2239,No
+Zakaria 235-19591,Male,1,Yes,Yes,32,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,94,2861,No
+Zakaria 236-19432,Male,0,Yes,Yes,15,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,No,Electronic check,102,1667,No
+Zakaria 237-16091,Male,0,No,No,19,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,90,1682,No
+Zakaria 238-16636,Female,0,No,No,1,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,55,55,Yes
+Zakaria 239-16254,Male,0,No,No,26,Yes,No,Fiber optic,No,Yes,No,No,No,No,One year,No,Bank transfer (automatic),76,2018,No
+Zakaria 240-15208,Female,1,Yes,No,31,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,2633,No
+Zakaria 241-15236,Male,1,No,No,34,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),69,2275,No
+Zakaria 242-18547,Male,0,No,No,18,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,No,Mailed check,70,1199,No
+Zakaria 243-16235,Male,0,Yes,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,307,Yes
+Zakaria 244-16865,Male,0,Yes,No,70,No,Maryville,DSL,No,Yes,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),51,3635,No
+Zakaria 245-19211,Female,0,Yes,No,34,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),61,2004,No
+Zakaria 246-18522,Male,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,37,No
+Zakaria 247-19351,Male,0,Yes,Yes,50,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,One year,Yes,Electronic check,70,3442,No
+Zakaria 248-17143,Male,0,Yes,Yes,42,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,867,No
+Zakaria 249-18244,Male,0,No,No,62,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),74,4698,No
+Zakaria 250-19497,Female,1,Yes,No,71,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Two year,Yes,Credit card (automatic),81,5676,No
+Zakaria 251-16548,Male,1,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,105,7309,No
+Zakaria 252-19251,Female,1,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,75,203,No
+Zakaria 253-18636,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,238,Yes
+Zakaria 254-15815,Male,0,No,Yes,1,No,Maryville,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,34,34,No
+Zakaria 255-19839,Male,0,No,No,10,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),26,252,No
+Zakaria 256-16393,Male,0,No,No,34,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,50,1734,No
+Zakaria 257-19914,Female,0,Yes,No,49,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,973,No
+Zakaria 258-16263,Female,0,Yes,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84,134,No
+Zakaria 259-15368,Male,0,No,No,22,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,65,1428,No
+Zakaria 260-17003,Female,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),25,25,No
+Zakaria 261-18064,Female,0,No,No,3,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,79,247,Yes
+Zakaria 262-18538,Male,0,No,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,85,424,Yes
+Zakaria 263-16458,Female,0,Yes,Yes,72,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),109,7726,No
+Zakaria 264-18741,Female,1,No,No,45,No,Maryville,DSL,No,No,No,No,No,Yes,One year,No,Electronic check,34,1597,No
+Zakaria 265-16574,Male,0,No,No,10,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90,863,Yes
+Zakaria 266-15588,Female,0,Yes,No,16,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95,1461,No
+Zakaria 267-16328,Female,0,Yes,Yes,33,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),24,839,No
+Zakaria 268-19822,Female,1,No,No,15,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,74,1146,Yes
+Zakaria 269-15004,Female,0,No,No,18,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96,1741,Yes
+Zakaria 270-19027,Male,0,Yes,No,49,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),94,4733,No
+Zakaria 271-18572,Male,1,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,92,6585,No
+Zakaria 272-19153,Female,0,Yes,Yes,15,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,296,No
+Zakaria 273-17570,Male,0,No,Yes,38,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99,3777,Yes
+Zakaria 274-18395,Female,0,No,No,15,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),65,995,Yes
+Zakaria 275-18008,Female,1,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85,1350,Yes
+Zakaria 276-16965,Female,0,Yes,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),111,7554,No
+Zakaria 277-19520,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,96,453,Yes
+Zakaria 278-15143,Male,0,Yes,No,64,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),104,6606,No
+Zakaria 279-18729,Male,0,Yes,Yes,62,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),116,7159,No
+Zakaria 280-15671,Female,0,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,497,No
+Zakaria 281-19551,Female,0,Yes,Yes,52,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),25,1270,No
+Zakaria 282-15359,Male,1,No,No,26,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,2404,No
+Zakaria 283-15896,Male,0,Yes,Yes,7,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,334,No
+Zakaria 284-19473,Male,0,No,No,52,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,No,One year,No,Electronic check,91,4738,No
+Zakaria 285-15988,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Zakaria 286-16266,Female,0,Yes,Yes,23,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),77,1759,No
+Zakaria 287-16284,Male,0,Yes,Yes,69,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),60,4070,No
+Zakaria 288-17732,Male,1,Yes,No,52,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),104,5481,No
+Zakaria 289-16695,Female,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),78,306,Yes
+Zakaria 290-16446,Male,0,No,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Bank transfer (automatic),102,7149,No
+Zakaria 291-17584,Female,0,Yes,No,25,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),20,508,No
+Zakaria 292-17062,Male,0,No,No,40,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,103,4108,No
+Zakaria 293-17761,Male,0,Yes,Yes,27,No,Maryville,DSL,No,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),46,1246,No
+Zakaria 294-19827,Female,0,Yes,No,2,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104,243,Yes
+Zakaria 295-16447,Female,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,80,Yes
+Zakaria 296-17201,Male,0,No,No,3,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,330,Yes
+Zakaria 297-18421,Female,0,Yes,Yes,17,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),99,1705,Yes
+Zakaria 298-15279,Male,0,No,No,36,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,3067,Yes
+Zakaria 299-15616,Female,1,No,No,4,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,49,180,No
+Zakaria 300-19684,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,416,Yes
+Zakaria 301-18802,Male,0,Yes,No,66,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Electronic check,85,5538,No
+Zakaria 302-15863,Female,0,Yes,Yes,36,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),93,3379,No
+Zakaria 303-19348,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),70,222,Yes
+Zakaria 304-17347,Male,0,No,No,24,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90,2239,Yes
+Zakaria 305-18293,Female,1,Yes,No,55,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,No,Electronic check,90,5045,No
+Zakaria 306-19694,Male,0,No,Yes,38,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,82,3142,No
+Zakaria 307-15582,Female,0,Yes,No,17,Yes,Yes,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),75,1323,No
+Zakaria 308-19214,Male,0,No,Yes,63,No,Maryville,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),41,2589,No
+Zakaria 309-19746,Male,1,Yes,No,1,No,Maryville,DSL,No,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,40,40,Yes
+Zakaria 310-17923,Male,1,No,No,56,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,5594,No
+Zakaria 311-16886,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),101,7325,No
+Zakaria 312-16082,Male,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,70,144,No
+Zakaria 313-15552,Male,1,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,261,Yes
+Zakaria 314-15027,Female,0,No,No,18,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,389,No
+Zakaria 315-15763,Female,1,Yes,No,56,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,No,Electronic check,96,5472,No
+Zakaria 316-17632,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Zakaria 317-15105,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,75,Yes
+Zakaria 318-17511,Male,0,No,No,24,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),60,1441,No
+Zakaria 319-18637,Male,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,78,330,Yes
+Zakaria 320-16783,Male,0,Yes,No,41,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80,3439,No
+Zakaria 321-18086,Male,0,Yes,Yes,44,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),21,865,No
+Zakaria 322-16016,Male,0,No,Yes,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,24,1655,No
+Zakaria 323-19523,Male,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80,1862,Yes
+Zakaria 324-18674,Female,0,Yes,Yes,4,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,76,Yes
+Zakaria 325-17514,Male,0,Yes,Yes,12,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,256,No
+Zakaria 326-16177,Female,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,74,Yes
+Zakaria 327-17452,Female,0,No,No,25,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),76,1993,No
+Zakaria 328-18401,Male,0,Yes,No,48,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Bank transfer (automatic),97,4473,No
+Zakaria 329-16538,Female,0,Yes,No,48,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100,4834,No
+Zakaria 330-17641,Female,0,Yes,No,67,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Mailed check,75,5064,No
+Zakaria 331-17502,Male,0,No,No,18,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,389,No
+Zakaria 332-18986,Male,0,No,No,9,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),96,827,No
+Zakaria 333-15392,Female,0,Yes,Yes,11,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,301,No
+Zakaria 334-16415,Male,0,Yes,Yes,40,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Mailed check,60,2449,No
+Zakaria 335-19187,Male,0,No,No,70,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),104,7250,Yes
+Zakaria 336-18660,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Zakaria 337-15928,Male,1,Yes,No,55,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,4052,No
+Zakaria 338-19878,Female,0,Yes,Yes,56,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),100,5515,No
+Zakaria 339-17328,Female,0,Yes,Yes,51,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,One year,Yes,Mailed check,95,5000,No
+Zakaria 340-17388,Female,0,No,Yes,39,No,Maryville,DSL,No,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),30,1131,Yes
+Zakaria 341-19051,Female,1,Yes,Yes,32,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,91,2897,No
+Zakaria 342-16342,Male,1,Yes,No,49,Yes,No,DSL,No,Yes,No,No,No,No,Two year,No,Mailed check,50,2398,No
+Zakaria 343-16813,Female,1,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25,25,Yes
+Zakaria 344-19514,Female,0,Yes,Yes,8,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,84,680,Yes
+Zakaria 345-17485,Male,0,Yes,Yes,52,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,1055,No
+Zakaria 346-16908,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,54,54,Yes
+Zakaria 347-18947,Female,0,Yes,Yes,16,No,Maryville,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),36,553,No
+Zakaria 348-15971,Female,0,Yes,No,20,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24,483,Yes
+Zakaria 349-18287,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),24,1725,No
+Zakaria 350-17744,Male,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),93,6735,No
+Zakaria 351-15467,Male,0,Yes,Yes,9,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),79,661,Yes
+Zakaria 352-18083,Male,0,No,No,24,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),51,1270,No
+Zakaria 353-18047,Male,0,Yes,No,14,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),50,669,No
+Zakaria 354-15754,Male,0,Yes,Yes,46,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,857,No
+Zakaria 355-16037,Female,0,No,No,8,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,29,227,No
+Zakaria 356-15998,Female,1,No,No,39,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,4036,No
+Zakaria 357-18700,Female,0,Yes,Yes,24,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,58,1368,No
+Zakaria 358-16896,Female,0,No,No,5,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,54,308,Yes
+Zakaria 359-16216,Female,0,No,Yes,12,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84,967,No
+Zakaria 360-18095,Male,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,92,267,No
+Zakaria 361-18251,Female,0,Yes,Yes,3,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),85,265,Yes
+Zakaria 362-19461,Female,0,Yes,Yes,33,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,58,1955,No
+Zakaria 363-18610,Female,0,Yes,Yes,12,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),58,741,No
+Zakaria 364-19386,Male,0,No,Yes,66,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,1357,No
+Zakaria 365-17703,Male,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25,25,Yes
+Zakaria 366-19884,Female,0,Yes,Yes,64,No,Maryville,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,55,3424,No
+Zakaria 367-19756,Female,0,Yes,Yes,41,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),75,3188,No
+Zakaria 368-17748,Female,0,No,No,15,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,302,No
+Zakaria 369-15775,Male,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,220,No
+Zakaria 370-17765,Male,0,No,No,54,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,70,3883,No
+Zakaria 371-18273,Female,1,No,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,1608,No
+Zakaria 372-17155,Female,0,Yes,Yes,52,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1071,No
+Zakaria 373-18499,Male,1,Yes,No,64,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,94,6081,No
+Zakaria 374-17061,Female,0,Yes,Yes,64,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,93,5981,No
+Zakaria 375-18908,Female,0,No,No,51,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),107,5681,No
+Zakaria 376-19829,Female,0,Yes,Yes,16,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,20,321,No
+Zakaria 377-15490,Female,0,Yes,Yes,22,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,400,No
+Zakaria 378-19797,Female,0,No,No,14,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),80,1112,No
+Zakaria 379-18319,Male,1,No,Yes,7,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,344,No
+Zakaria 380-17484,Female,1,No,No,25,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90,2188,Yes
+Zakaria 381-18613,Female,0,No,No,48,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),103,4904,No
+Zakaria 382-15915,Female,1,Yes,No,68,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,6852,Yes
+Zakaria 383-17258,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44,44,Yes
+Zakaria 384-17552,Female,0,No,No,18,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),90,1527,Yes
+Zakaria 385-16509,Female,0,Yes,No,26,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),90,2313,No
+Zakaria 386-16679,Female,0,No,No,2,Yes,No,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,71,147,Yes
+Zakaria 387-15358,Male,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Zakaria 388-15820,Male,0,Yes,Yes,68,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,56,3948,No
+Zakaria 389-17753,Female,0,Yes,No,69,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),105,7241,No
+Zakaria 390-18550,Male,0,No,No,23,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,21,474,No
+Zakaria 391-16680,Male,0,No,No,10,No,Maryville,DSL,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,30,255,Yes
+Zakaria 392-19789,Male,0,Yes,No,64,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),102,6654,No
+Zakaria 393-15781,Male,1,Yes,No,14,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,1013,No
+Zakaria 394-18412,Female,0,Yes,Yes,68,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),109,7509,No
+Zakaria 395-19014,Female,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),24,1679,No
+Zakaria 396-15784,Male,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90,368,Yes
+Zakaria 397-17557,Female,1,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Mailed check,82,163,No
+Zakaria 398-17555,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),110,7887,No
+Zakaria 399-16920,Female,1,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,187,Yes
+Zakaria 400-19810,Female,0,No,No,13,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,20,245,No
+Zakaria 401-15999,Female,1,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,132,Yes
+Zakaria 402-19416,Female,1,No,No,4,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89,346,Yes
+Zakaria 403-18526,Male,0,Yes,Yes,13,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,897,Yes
+Zakaria 404-17168,Male,0,No,No,60,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Electronic check,61,3638,No
+Zakaria 405-16147,Female,0,Yes,Yes,46,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,19,864,No
+Zakaria 406-16061,Female,0,No,No,4,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,68,No
+Zakaria 407-16080,Male,0,Yes,Yes,20,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90,1777,Yes
+Zakaria 408-15806,Male,0,No,No,23,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,406,No
+Zakaria 409-15089,Male,0,Yes,No,51,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),84,4307,No
+Zakaria 410-15238,Male,0,Yes,Yes,66,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Electronic check,75,5013,No
+Zakaria 411-18436,Female,0,Yes,Yes,7,No,Maryville,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,35,247,No
+Zakaria 412-15630,Female,1,No,No,9,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,752,Yes
+Zakaria 413-15246,Male,0,No,No,23,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,481,No
+Zakaria 414-18121,Male,0,No,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),89,6362,No
+Zakaria 415-18389,Male,0,Yes,No,51,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,112,5720,No
+Zakaria 416-18714,Male,0,Yes,Yes,59,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1188,No
+Zakaria 417-15914,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78,78,Yes
+Zakaria 418-19225,Female,0,Yes,No,5,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,89,454,Yes
+Zakaria 419-19597,Female,0,No,No,11,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,238,No
+Zakaria 420-15367,Male,0,No,No,5,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,93,453,Yes
+Zakaria 421-18094,Male,0,No,No,56,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,94,5125,Yes
+Zakaria 422-17769,Male,0,Yes,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,71,294,No
+Zakaria 423-16733,Male,0,Yes,Yes,29,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71,1975,Yes
+Zakaria 424-16189,Male,0,No,No,50,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,989,No
+Zakaria 425-17844,Female,0,No,Yes,24,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,498,No
+Zakaria 426-15625,Female,0,Yes,Yes,25,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,520,No
+Zakaria 427-15607,Female,0,No,No,9,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),60,530,No
+Zakaria 428-17878,Female,0,Yes,Yes,55,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,1210,No
+Zakaria 429-15886,Female,0,No,No,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),99,5624,No
+Zakaria 430-17479,Male,0,Yes,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,91,171,No
+Zakaria 431-16166,Female,0,Yes,No,51,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),79,3951,No
+Zakaria 432-18771,Male,0,No,No,30,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),90,2821,No
+Zakaria 433-17773,Male,0,No,No,33,No,Maryville,DSL,No,Yes,No,No,Yes,No,One year,Yes,Electronic check,39,1309,No
+Zakaria 434-16875,Male,0,No,No,16,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),70,1206,No
+Zakaria 435-16555,Male,1,Yes,No,40,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),98,4117,No
+Zakaria 436-15620,Female,0,Yes,No,67,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),21,1327,No
+Zakaria 437-16928,Female,0,No,No,6,No,Maryville,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),51,308,No
+Zakaria 438-19057,Female,0,No,Yes,13,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,30,382,No
+Zakaria 439-19816,Male,0,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),85,663,Yes
+Zakaria 440-15159,Male,1,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,74,545,Yes
+Zakaria 441-19085,Male,0,No,No,12,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,267,No
+Zakaria 442-19009,Male,0,Yes,Yes,34,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,679,No
+Zakaria 443-19437,Male,0,Yes,No,3,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,24,89,No
+Zakaria 444-17495,Male,0,Yes,Yes,44,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),21,926,No
+Zakaria 445-19171,Female,0,Yes,Yes,14,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,26,372,No
+Zakaria 446-16535,Male,0,No,No,37,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,91,3369,No
+Zakaria 447-16331,Female,1,Yes,Yes,24,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Electronic check,97,2263,No
+Zakaria 448-19091,Male,0,No,No,19,Yes,No,DSL,No,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),65,1232,No
+Zakaria 449-15923,Male,0,No,No,53,No,Maryville,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),46,2547,No
+Zakaria 450-15405,Female,0,No,No,11,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,246,No
+Zakaria 451-16096,Female,0,No,No,1,No,Maryville,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,30,30,No
+Zakaria 452-19420,Male,1,Yes,No,35,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,95,3365,No
+Zakaria 453-19818,Female,0,No,No,1,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),30,30,Yes
+Zakaria 454-17820,Male,0,Yes,No,53,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1110,No
+Zakaria 455-16305,Female,0,No,No,37,Yes,Yes,DSL,Yes,No,No,No,Yes,No,One year,No,Bank transfer (automatic),65,2348,No
+Zakaria 456-19574,Female,0,No,No,10,No,Maryville,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),41,449,No
+Zakaria 457-16076,Male,1,Yes,No,67,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95,6079,No
+Zakaria 458-17271,Male,0,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95,463,Yes
+Zakaria 459-19785,Female,0,Yes,Yes,29,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,20,540,No
+Zakaria 460-16184,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),89,6302,No
+Zakaria 461-15722,Female,0,No,No,2,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,50,115,Yes
+Zakaria 462-15989,Male,0,No,No,63,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),87,5310,No
+Zakaria 463-15851,Male,1,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1901,No
+Zakaria 464-15650,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,19,Yes
+Zakaria 465-16870,Male,0,No,Yes,5,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,122,No
+Zakaria 466-16324,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,46,46,Yes
+Zakaria 467-15175,Male,0,No,No,1,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,54,54,Yes
+Zakaria 468-17300,Male,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,52,No
+Zakaria 469-18956,Female,0,Yes,Yes,14,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,1047,No
+Zakaria 470-17695,Male,0,No,No,2,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,48,92,Yes
+Zakaria 471-16919,Female,0,No,No,4,Yes,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),69,261,Yes
+Zakaria 472-18242,Female,1,No,No,44,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),75,3268,No
+Zakaria 473-16355,Female,0,Yes,No,53,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),19,990,No
+Zakaria 474-18580,Male,0,Yes,Yes,67,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),90,6373,No
+Zakaria 475-18776,Male,0,Yes,Yes,64,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Mailed check,69,4448,No
+Zakaria 476-17888,Female,0,No,No,3,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,20,66,No
+Zakaria 477-15512,Female,0,No,No,61,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,89,5501,No
+Zakaria 478-15576,Male,0,No,No,30,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),97,3021,No
+Zakaria 479-18138,Male,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,1378,No
+Zakaria 480-17321,Female,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),70,267,Yes
+Zakaria 481-12974,Male,0,Yes,No,588,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),10878,3626,No
+Zakaria 482-17428,Male,0,Yes,No,30,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),94,2866,Yes
+Zakaria 483-18247,Male,0,No,No,14,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,90,1178,Yes
+Zakaria 484-17986,Female,0,Yes,No,47,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,99,4534,Yes
+Zakaria 485-19998,Female,0,Yes,No,1,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,30,30,No
+Zakaria 486-16842,Female,0,No,No,25,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,461,No
+Zakaria 487-17979,Male,0,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,104,7041,Yes
+Zakaria 488-18624,Male,0,Yes,Yes,45,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,84,3858,No
+Zakaria 489-17335,Female,0,Yes,No,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),109,6558,No
+Zakaria 490-15826,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Zakaria 491-16795,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),88,6521,No
+Zakaria 492-18631,Male,1,Yes,No,61,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,82,4905,No
+Zakaria 493-16701,Female,0,Yes,No,42,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),84,3572,No
+Zakaria 494-18312,Female,0,Yes,Yes,26,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,60,1616,Yes
+Zakaria 495-16329,Male,0,No,No,44,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,112,4915,No
+Zakaria 496-17789,Male,0,Yes,No,8,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,161,No
+Zakaria 497-19689,Male,0,No,Yes,48,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),79,3682,No
+Zakaria 498-16709,Female,0,No,Yes,41,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),89,3645,No
+Zakaria 499-17804,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,80,Yes
+Zakaria 500-17124,Female,0,Yes,No,64,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,1226,No
+Zakaria 501-19159,Male,0,No,No,44,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,906,No
+Zakaria 502-19626,Male,0,No,Yes,24,No,Maryville,DSL,Yes,No,No,Yes,No,No,Two year,No,Mailed check,36,831,No
+Zakaria 503-18820,Male,0,No,No,15,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,101,1554,Yes
+Zakaria 504-18517,Male,0,Yes,Yes,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),65,4754,No
+Zakaria 505-15406,Female,0,Yes,Yes,39,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,24,915,No
+Zakaria 506-18367,Female,1,Yes,No,17,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),85,1463,Yes
+Zakaria 507-18909,Female,0,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75,1129,No
+Zakaria 508-18061,Female,0,Yes,Yes,13,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,265,No
+Zakaria 509-17159,Female,0,Yes,Yes,41,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),19,772,No
+Zakaria 510-18828,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,114,8093,No
+Zakaria 511-18176,Female,0,No,Yes,31,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),87,2697,Yes
+Zakaria 512-19871,Male,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),24,1724,No
+Zakaria 513-17136,Male,0,Yes,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,451,Yes
+Zakaria 514-18606,Male,0,Yes,Yes,33,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,621,No
+Zakaria 515-18462,Male,0,Yes,Yes,69,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),76,5388,No
+Zakaria 516-18910,Male,1,Yes,No,17,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100,1622,Yes
+Zakaria 517-19080,Female,0,No,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,81,2193,No
+Zakaria 518-19340,Male,0,Yes,Yes,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,36,Yes
+Zakaria 519-15312,Female,1,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),107,7749,No
+Zakaria 520-19958,Male,0,Yes,Yes,10,Yes,No,DSL,No,Yes,No,No,No,No,One year,No,Mailed check,50,476,No
+Zakaria 521-19898,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Zakaria 522-18746,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,19,19,No
+Zakaria 523-15268,Male,1,No,No,31,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),97,2878,No
+Zakaria 524-19322,Female,0,No,No,48,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),25,1204,No
+Zakaria 525-17860,Female,0,Yes,Yes,54,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),70,3872,No
+Zakaria 526-15451,Male,0,Yes,Yes,62,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,6487,No
+Zakaria 527-17135,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,45,No
+Zakaria 528-16526,Female,1,No,No,56,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,105,5841,No
+Zakaria 529-16582,Male,0,No,Yes,12,Yes,No,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,70,838,No
+Zakaria 530-17041,Female,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,80,324,No
+Zakaria 531-17839,Female,0,No,No,15,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,369,No
+Zakaria 532-16731,Male,0,Yes,Yes,47,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,952,No
+Zakaria 533-17762,Male,1,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,71,372,No
+Zakaria 534-16863,Female,1,No,No,38,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,100,3734,Yes
+Zakaria 535-17035,Female,0,Yes,Yes,34,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),26,917,No
+Zakaria 536-16913,Male,0,No,No,3,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105,323,Yes
+Zakaria 537-17664,Male,1,Yes,No,16,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),85,1391,No
+Zakaria 538-19564,Male,0,Yes,No,41,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Electronic check,20,899,No
+Zakaria 539-15464,Male,0,No,No,1,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Credit card (automatic),49,49,No
+Zakaria 540-15780,Male,0,No,No,7,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),25,153,No
+Zakaria 541-17350,Male,0,No,No,35,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,60,2095,No
+Zakaria 542-15393,Male,0,Yes,No,63,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Two year,No,Mailed check,67,4234,No
+Zakaria 543-17068,Male,0,Yes,Yes,31,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,756,No
+Zakaria 544-17446,Female,0,Yes,No,47,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,27,1251,No
+Zakaria 545-16667,Male,0,Yes,Yes,0,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,#VALUE!,No
+Zakaria 546-18246,Male,0,Yes,No,27,Yes,No,DSL,Yes,No,No,No,No,No,One year,No,Credit card (automatic),49,1422,No
+Zakaria 547-19845,Male,0,Yes,Yes,62,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,86,5215,No
+Zakaria 548-18851,Female,0,No,No,3,Yes,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,60,171,No
+Zakaria 549-16982,Female,0,No,No,3,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55,196,Yes
+Zakaria 550-17463,Female,1,Yes,No,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),92,6474,No
+Zakaria 551-15936,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,71,71,Yes
+Zakaria 552-17661,Female,1,No,No,56,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),105,5511,Yes
+Zakaria 553-18377,Female,0,No,No,35,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,3029,Yes
+Zakaria 554-17615,Male,0,Yes,Yes,21,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,26,566,No
+Zakaria 555-18559,Female,1,No,No,5,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),76,350,Yes
+Zakaria 556-16313,Male,0,Yes,No,50,No,Maryville,DSL,Yes,No,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),44,2188,No
+Zakaria 557-16606,Female,0,Yes,Yes,58,Yes,No,DSL,No,No,No,No,No,No,One year,Yes,Mailed check,44,2413,No
+Zakaria 558-19126,Male,0,No,Yes,66,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1269,No
+Zakaria 559-19175,Male,0,No,No,5,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),64,318,No
+Zakaria 560-17763,Female,0,Yes,Yes,41,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),78,3211,No
+Zakaria 561-17821,Male,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),103,7550,No
+Zakaria 562-16796,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55,55,No
+Zakaria 563-15965,Male,0,Yes,Yes,67,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Mailed check,60,3994,No
+Zakaria 564-16128,Female,0,Yes,No,68,No,Maryville,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,54,3724,No
+Zakaria 565-19635,Female,0,No,No,47,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,21,946,No
+Zakaria 566-15945,Male,1,No,No,11,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),60,663,No
+Zakaria 567-19436,Male,0,Yes,Yes,7,Yes,No,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),70,516,No
+Zakaria 568-19515,Female,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),109,8004,No
+Zakaria 569-15789,Male,0,Yes,Yes,44,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),55,2549,No
+Zakaria 570-18213,Male,0,Yes,Yes,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),92,6393,No
+Zakaria 571-17007,Female,1,Yes,No,37,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,90,3372,No
+Zakaria 572-18990,Male,0,Yes,Yes,32,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100,3205,Yes
+Zakaria 573-18260,Female,0,Yes,No,66,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),91,6131,No
+Zakaria 574-18855,Male,0,Yes,No,18,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),57,1075,No
+Zakaria 575-19665,Female,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,511,Yes
+Zakaria 576-16014,Female,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1858,No
+Zakaria 577-15942,Female,0,No,No,3,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,51,155,Yes
+Zakaria 578-18301,Female,0,Yes,Yes,63,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),76,4708,No
+Zakaria 579-17609,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,85,6301,No
+Zakaria 580-17083,Female,0,Yes,Yes,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),64,4684,No
+Zakaria 581-16781,Female,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,42,No
+Zakaria 582-17393,Female,0,No,No,13,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,261,No
+Zakaria 583-19254,Female,0,No,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),44,202,No
+Zakaria 584-19138,Male,0,No,No,26,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,457,No
+Zakaria 585-18391,Male,1,Yes,No,13,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),89,1169,Yes
+Zakaria 586-17981,Male,0,Yes,No,38,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,744,No
+Zakaria 587-19983,Female,0,Yes,Yes,69,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),113,7895,No
+Zakaria 588-18219,Female,0,No,No,2,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,91,169,No
+Zakaria 589-16094,Male,0,Yes,Yes,34,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,636,No
+Zakaria 590-18787,Female,0,Yes,Yes,11,Yes,Yes,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,66,741,Yes
+Zakaria 591-19717,Female,0,No,No,10,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,51,498,No
+Zakaria 592-15014,Female,0,No,No,42,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),60,2537,No
+Zakaria 593-18346,Male,0,Yes,No,17,No,Maryville,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,34,593,No
+Zakaria 594-17250,Male,0,No,No,4,No,Maryville,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,45,174,Yes
+Zakaria 595-19145,Female,0,No,No,5,Yes,No,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,64,353,No
+Zakaria 596-16699,Male,0,No,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),117,8036,No
+Zakaria 597-17132,Female,0,No,No,12,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,1017,No
+Zakaria 598-18120,Male,0,No,No,3,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),21,67,No
+Zakaria 599-18611,Male,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),24,1643,No
+Zakaria 600-15833,Male,0,No,No,6,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),88,522,No
+Zakaria 601-15898,Male,0,Yes,No,50,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Electronic check,20,1013,No
+Zakaria 602-17073,Female,0,Yes,Yes,50,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Mailed check,103,5154,No
+Zakaria 603-19743,Female,0,Yes,Yes,67,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,60,4104,No
+Zakaria 604-17209,Female,0,No,No,24,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89,2073,No
+Zakaria 605-16196,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Zakaria 606-16647,Female,0,No,No,16,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,54,834,Yes
+Zakaria 607-18368,Male,1,Yes,No,38,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,103,4009,No
+Zakaria 608-12984,Male,0,No,No,697,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,10938,3646,No
+Zakaria 609-17324,Female,1,No,No,4,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,91,No
+Zakaria 610-16133,Female,0,No,Yes,1,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,24,24,No
+Zakaria 611-16320,Male,0,Yes,Yes,16,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,85,1398,No
+Zakaria 612-16252,Female,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,69,Yes
+Zakaria 613-19398,Male,0,No,No,16,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),75,1171,No
+Zakaria 614-17919,Male,0,Yes,Yes,70,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,7554,No
+Zakaria 615-16294,Female,0,Yes,Yes,68,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),73,5163,No
+Zakaria 616-15922,Male,0,Yes,No,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),99,6945,No
+Zakaria 617-18096,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),91,6442,No
+Zakaria 618-17458,Female,0,No,No,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),112,7796,No
+Zakaria 619-19524,Female,0,Yes,Yes,1,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Zakaria 620-19429,Female,0,No,No,11,No,Maryville,DSL,No,Yes,Yes,Yes,No,No,One year,Yes,Credit card (automatic),40,423,No
+Zakaria 621-16717,Male,0,Yes,No,49,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Electronic check,95,4691,No
+Zakaria 622-17913,Female,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93,2931,Yes
+Zakaria 623-17960,Female,0,Yes,Yes,26,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91,2362,Yes
+Zakaria 624-18477,Male,0,No,No,37,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Electronic check,67,2443,No
+Zakaria 625-15261,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116,8313,No
+Zakaria 626-18472,Female,0,No,No,3,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,95,293,No
+Zakaria 627-19143,Female,0,No,Yes,62,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,100,6414,Yes
+Zakaria 628-16463,Male,0,Yes,Yes,64,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),109,6741,No
+Zakaria 629-18788,Male,0,Yes,Yes,17,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,1150,Yes
+Zakaria 630-16626,Male,1,No,No,57,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105,5914,No
+Zakaria 631-18286,Female,0,No,No,29,Yes,Yes,DSL,No,Yes,No,No,No,No,One year,Yes,Electronic check,55,1620,No
+Zakaria 632-19349,Male,1,No,No,24,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),70,1733,No
+Zakaria 633-18338,Male,0,Yes,No,47,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,25,1139,No
+Zakaria 634-17779,Male,1,No,No,20,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,90,1648,No
+Zakaria 635-16115,Female,0,No,No,12,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,80,1001,No
+Zakaria 636-19396,Female,0,Yes,Yes,66,Yes,Yes,Fiber optic,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),74,4859,No
+Zakaria 637-19787,Female,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,25,No
+Zakaria 638-18221,Female,0,No,No,28,Yes,Yes,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),55,1505,No
+Zakaria 639-18158,Male,0,Yes,Yes,65,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),109,6938,Yes
+Zakaria 640-15449,Female,0,No,Yes,17,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),93,1557,No
+Zakaria 641-18836,Female,0,No,No,67,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),72,4992,No
+Zakaria 642-18207,Female,0,Yes,No,44,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,62,2722,No
+Zakaria 643-19962,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,317,Yes
+Zakaria 644-18966,Female,1,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,92,730,Yes
+Zakaria 645-15556,Male,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79,242,Yes
+Zakaria 646-19042,Female,0,Yes,Yes,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1813,No
+Zakaria 647-16631,Male,0,No,No,52,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,89,4652,No
+Zakaria 648-15383,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),65,4805,No
+Zakaria 649-17969,Male,0,Yes,No,67,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,One year,Yes,Credit card (automatic),91,6056,Yes
+Zakaria 650-18380,Female,1,No,No,23,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,2294,Yes
+Zakaria 651-19197,Female,0,No,No,10,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,99,1058,Yes
+Zakaria 652-15906,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+Zakaria 653-17366,Female,0,No,No,55,Yes,No,DSL,No,Yes,Yes,No,No,Yes,Two year,Yes,Mailed check,65,3617,No
+Zakaria 654-16045,Female,1,No,No,6,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,74,434,Yes
+Zakaria 655-17396,Female,0,Yes,Yes,64,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,111,7267,No
+Zakaria 656-16490,Female,0,No,No,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),114,7939,No
+Zakaria 657-18824,Female,0,No,No,14,Yes,Yes,DSL,No,Yes,No,No,No,No,One year,Yes,Mailed check,54,773,No
+Zakaria 658-15782,Male,0,No,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),92,6633,No
+Zakaria 659-19589,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,Yes
+Zakaria 660-19444,Male,0,No,No,32,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80,2596,Yes
+Zakaria 661-15107,Male,0,Yes,No,4,Yes,Yes,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,66,250,No
+Zakaria 662-15251,Male,0,No,No,35,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),21,754,No
+Zakaria 663-19990,Female,0,Yes,No,28,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105,3046,Yes
+Zakaria 664-15570,Male,0,Yes,Yes,19,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,103,2013,Yes
+Zakaria 665-18497,Male,0,No,No,13,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,244,No
+Zakaria 666-18530,Male,0,No,No,62,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,One year,Yes,Bank transfer (automatic),92,5731,No
+Zakaria 667-18454,Male,0,Yes,No,30,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,50,1475,No
+Zakaria 668-17918,Male,1,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),84,5982,No
+Zakaria 669-19792,Male,0,Yes,Yes,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),55,4179,No
+Zakaria 670-19934,Female,0,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,94,857,Yes
+Zakaria 671-17522,Male,0,Yes,No,69,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,85,5879,No
+Zakaria 672-15726,Male,0,Yes,No,56,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),25,1327,Yes
+Zakaria 673-16276,Male,0,No,Yes,23,No,Maryville,DSL,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),41,947,No
+Zakaria 674-17623,Female,1,Yes,No,71,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110,7904,No
+Zakaria 675-18641,Male,0,Yes,No,48,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),111,5315,No
+Zakaria 676-15414,Male,1,No,No,69,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),74,5031,No
+Zakaria 677-17273,Female,0,No,No,2,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,46,No
+Zakaria 678-17566,Female,1,Yes,No,50,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,25,1306,No
+Zakaria 679-16987,Female,0,Yes,Yes,9,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,211,No
+Zakaria 680-15573,Male,0,Yes,Yes,14,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,69,945,No
+Zakaria 681-18941,Female,0,No,No,10,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,85,832,Yes
+Zakaria 682-18524,Male,0,Yes,Yes,45,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),96,4457,No
+Zakaria 683-17836,Male,0,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),97,2684,No
+Zakaria 684-15281,Male,0,Yes,No,38,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,111,4429,No
+Zakaria 685-15869,Male,0,Yes,Yes,34,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,84,2910,No
+Zakaria 686-18150,Female,0,No,No,38,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,19,756,No
+Zakaria 687-15736,Male,1,No,No,2,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,No,Bank transfer (automatic),66,95,Yes
+Zakaria 688-15005,Male,0,Yes,Yes,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),66,4665,No
+Zakaria 689-15185,Female,0,No,Yes,46,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,4391,No
+Zakaria 690-18498,Female,0,No,No,37,No,Maryville,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),40,1479,No
+Zakaria 691-18557,Female,1,Yes,No,58,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),98,5459,No
+Zakaria 692-18691,Female,0,No,No,36,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Mailed check,76,2680,No
+Zakaria 693-16416,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,232,No
+Zakaria 694-16670,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,No
+Zakaria 695-17183,Male,0,No,No,3,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,88,262,Yes
+Zakaria 696-17133,Female,0,Yes,Yes,66,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),109,7083,No
+Zakaria 697-16881,Female,1,Yes,Yes,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,108,7476,No
+Zakaria 698-16659,Female,0,Yes,Yes,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),88,6162,No
+Zakaria 699-16827,Female,0,No,No,21,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),21,435,No
+Zakaria 700-18127,Female,0,Yes,Yes,51,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,94,4539,No
+Zakaria 701-17871,Male,0,Yes,No,40,No,Maryville,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Electronic check,42,1716,Yes
+Zakaria 702-15516,Female,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,541,Yes
+Zakaria 703-17025,Female,0,Yes,Yes,62,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,6283,Yes
+Zakaria 704-18023,Male,0,No,No,21,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,390,No
+Zakaria 705-18277,Female,0,No,No,9,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,640,Yes
+Zakaria 706-19332,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,145,Yes
+Zakaria 707-16028,Male,0,Yes,Yes,42,Yes,No,DSL,Yes,No,No,Yes,No,Yes,One year,No,Credit card (automatic),64,2763,No
+Zakaria 708-15418,Female,0,Yes,No,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,1372,No
+Zakaria 709-16635,Male,0,Yes,No,57,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),58,3266,No
+Zakaria 710-16386,Male,0,No,No,21,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,1559,No
+Zakaria 711-17235,Male,0,Yes,Yes,64,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,81,5135,No
+Zakaria 712-18443,Female,0,Yes,No,53,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),106,5770,Yes
+Zakaria 713-16359,Female,1,Yes,No,60,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),101,6029,No
+Zakaria 714-19557,Female,1,No,No,49,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),102,5070,No
+Zakaria 715-19441,Male,0,No,No,38,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,One year,No,Mailed check,71,2708,No
+Zakaria 716-15409,Female,0,Yes,Yes,10,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,221,No
+Zakaria 717-18465,Female,0,No,No,14,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,75,1026,Yes
+Zakaria 718-17983,Female,0,Yes,Yes,28,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,50,1410,No
+Zakaria 719-18680,Male,0,No,No,8,Yes,No,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,67,579,No
+Zakaria 720-17895,Male,1,Yes,No,11,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,835,No
+Zakaria 721-17873,Female,0,Yes,Yes,67,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Two year,Yes,Electronic check,76,5229,No
+Zakaria 722-18424,Female,0,No,Yes,15,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,271,No
+Zakaria 723-18551,Male,0,No,Yes,4,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Credit card (automatic),81,332,Yes
+Zakaria 724-18134,Female,1,Yes,No,26,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,61,1597,No
+Zakaria 725-18554,Male,0,No,Yes,41,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,111,4507,No
+Zakaria 726-16087,Male,0,No,No,18,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,49,875,Yes
+Zakaria 727-19007,Female,0,No,No,58,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),24,1424,No
+Zakaria 728-18879,Male,0,Yes,Yes,70,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),60,4145,No
+Zakaria 729-15733,Male,1,Yes,No,66,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100,6872,Yes
+Zakaria 730-17516,Female,0,Yes,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,90,No
+Zakaria 731-17952,Female,0,No,Yes,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25,25,No
+Zakaria 732-15844,Male,0,No,No,6,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,470,Yes
+Zakaria 733-19883,Male,0,Yes,Yes,3,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,90,248,No
+Zakaria 734-18684,Female,0,Yes,Yes,39,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,90,3474,Yes
+Zakaria 735-17331,Female,0,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),115,8405,No
+Zakaria 736-17802,Female,0,Yes,Yes,19,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,382,No
+Zakaria 737-17467,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),24,1682,No
+Zakaria 738-19301,Male,0,Yes,Yes,3,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,50,168,Yes
+Zakaria 739-19128,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),98,7016,No
+Zakaria 740-15224,Female,0,Yes,No,53,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,One year,Yes,Electronic check,91,4863,No
+Zakaria 741-15520,Female,0,No,No,3,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,54,140,No
+Zakaria 742-17946,Female,0,No,No,48,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104,4946,No
+Zakaria 743-18539,Female,0,No,No,60,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,100,5941,No
+Zakaria 744-19702,Female,0,Yes,Yes,71,Yes,No,Fiber optic,No,No,Yes,No,No,No,Two year,No,Electronic check,76,5436,No
+Zakaria 745-17692,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,200,No
+Zakaria 746-18350,Male,1,Yes,Yes,60,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,81,4859,No
+Zakaria 747-15310,Female,1,Yes,No,70,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,91,6470,No
+Zakaria 748-19196,Male,0,Yes,Yes,39,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,24,904,No
+Zakaria 749-16506,Female,0,No,No,3,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,29,99,No
+Zakaria 750-17399,Female,0,No,No,72,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),73,5265,No
+Zakaria 751-17009,Male,0,No,Yes,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,19,No
+Zakaria 752-16620,Male,0,Yes,No,72,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,84,6033,No
+Zakaria 753-16525,Male,0,Yes,No,42,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),106,4513,Yes
+Zakaria 754-18408,Female,0,Yes,Yes,63,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Electronic check,19,1264,No
+Zakaria 755-19526,Male,0,Yes,No,9,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,70,564,No
+Zakaria 756-16182,Male,1,Yes,Yes,50,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Bank transfer (automatic),75,3822,No
+Zakaria 757-18750,Female,0,No,No,11,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,90,988,Yes
+Zakaria 758-17698,Female,0,Yes,Yes,48,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),103,5038,Yes
+Zakaria 759-17822,Male,0,Yes,Yes,67,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),19,1284,No
+Zakaria 760-15612,Male,0,Yes,Yes,55,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),58,3046,Yes
+Zakaria 761-15571,Female,0,No,No,49,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),101,4918,No
+Zakaria 762-17275,Male,0,No,No,21,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),21,403,No
+Zakaria 763-17727,Female,1,No,No,40,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,92,3674,No
+Zakaria 764-18737,Female,0,Yes,No,2,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,80,195,No
+Zakaria 765-16420,Female,0,No,No,40,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,65,2586,No
+Zakaria 766-17792,Male,1,Yes,No,57,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),95,5427,Yes
+Zakaria 767-15730,Male,0,Yes,Yes,35,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Electronic check,90,3166,No
+Zakaria 768-19815,Male,0,Yes,Yes,33,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),75,2453,No
+Zakaria 769-16677,Female,0,Yes,No,64,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,1715,No
+Zakaria 770-15303,Female,0,No,No,35,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,700,No
+Zakaria 771-17109,Male,0,Yes,Yes,58,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,No,One year,No,Mailed check,50,2920,No
+Zakaria 772-15718,Male,0,Yes,Yes,64,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,1274,No
+Zakaria 773-18862,Female,0,Yes,Yes,63,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1209,No
+Zakaria 774-18266,Male,1,Yes,Yes,61,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Electronic check,99,5969,No
+Zakaria 775-16841,Male,0,No,No,9,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,431,Yes
+Zakaria 776-15764,Female,0,No,No,16,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,19,327,No
+Zakaria 777-15362,Male,0,Yes,Yes,44,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,861,No
+Zakaria 778-16534,Female,0,Yes,No,31,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),84,2674,No
+Zakaria 779-15938,Male,0,Yes,Yes,54,Yes,Yes,DSL,No,No,Yes,No,No,Yes,Two year,No,Credit card (automatic),63,3409,No
+Zakaria 780-15524,Male,0,No,No,57,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),53,3090,No
+Zakaria 781-18683,Female,0,Yes,Yes,11,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),21,202,No
+Zakaria 782-17512,Female,0,Yes,Yes,28,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,One year,Yes,Electronic check,90,2509,No
+Zakaria 783-18913,Female,1,No,No,13,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,74,940,Yes
+Zakaria 784-17612,Female,0,Yes,Yes,43,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,50,2169,No
+Zakaria 785-18125,Female,0,Yes,Yes,72,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),71,5011,No
+Zakaria 786-15818,Female,1,No,No,2,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,24,42,Yes
+Zakaria 787-17859,Female,0,No,No,7,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,67,458,No
+Zakaria 788-17941,Female,0,Yes,No,22,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,79,1743,Yes
+Zakaria 789-19388,Male,0,Yes,Yes,9,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,30,249,Yes
+Zakaria 790-19096,Male,0,No,No,17,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,94,1626,Yes
+Zakaria 791-18152,Male,0,No,No,19,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,19,279,No
+Zakaria 792-19795,Male,0,No,Yes,13,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),78,1034,No
+Zakaria 793-16245,Male,0,No,No,1,No,Maryville,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,29,29,No
+Zakaria 794-19324,Male,1,No,No,52,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,49,2551,Yes
+Zakaria 795-18117,Male,0,No,No,26,No,Maryville,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),45,1157,No
+Zakaria 796-16706,Female,0,No,No,5,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),51,229,No
+Zakaria 797-18848,Female,0,No,No,41,No,Maryville,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,40,1678,No
+Zakaria 798-15263,Male,0,No,No,44,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),85,3704,No
+Zakaria 799-17343,Female,0,No,Yes,4,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,90,366,Yes
+Zakaria 800-18430,Male,1,No,No,11,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,111,1183,No
+Zakaria 801-16099,Female,1,Yes,No,52,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,109,5648,No
+Zakaria 802-19362,Male,0,No,No,31,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),99,3110,No
+Zakaria 803-18581,Female,1,No,No,18,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),50,866,No
+Zakaria 804-15456,Female,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,79,2570,No
+Zakaria 805-16550,Male,0,Yes,Yes,4,Yes,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),61,230,Yes
+Zakaria 806-17176,Female,0,Yes,Yes,41,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),80,3326,Yes
+Zakaria 807-16384,Male,0,Yes,No,69,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),60,4056,No
+Zakaria 808-17065,Male,0,Yes,Yes,68,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),24,1664,No
+Zakaria 809-18235,Female,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,81,No
+Zakaria 810-18962,Male,0,Yes,Yes,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),115,7850,No
+Zakaria 811-15814,Male,1,Yes,No,5,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80,344,Yes
+Zakaria 812-18470,Female,0,No,No,19,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,56,1093,No
+Zakaria 813-19928,Male,0,No,No,1,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,49,49,No
+Zakaria 814-15087,Male,1,Yes,No,72,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),85,6142,No
+Zakaria 815-17577,Male,0,No,No,68,No,Maryville,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),40,2796,No
+Zakaria 816-19483,Male,0,No,No,40,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),105,4132,Yes
+Zakaria 817-19012,Female,0,No,No,12,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),44,541,No
+Zakaria 818-16776,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),45,111,No
+Zakaria 819-19753,Male,1,No,No,4,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75,273,No
+Zakaria 820-16077,Female,0,Yes,No,24,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,66,1559,No
+Zakaria 821-19149,Female,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),90,6510,No
+Zakaria 822-16690,Female,0,Yes,No,15,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,388,No
+Zakaria 823-15486,Female,1,No,No,70,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),76,5213,No
+Zakaria 824-15574,Male,0,No,Yes,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,25,Yes
+Zakaria 825-16198,Female,0,No,Yes,66,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),91,5930,No
+Zakaria 826-15725,Female,0,No,No,31,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),80,2404,Yes
+Zakaria 827-15759,Male,0,Yes,Yes,56,No,Maryville,DSL,No,Yes,Yes,No,No,No,One year,Yes,Credit card (automatic),36,1972,No
+Zakaria 828-16377,Female,0,Yes,Yes,2,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24,37,Yes
+Zakaria 829-17680,Female,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,No,Bank transfer (automatic),101,7031,No
+Zakaria 830-18357,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),87,6230,No
+Zakaria 831-15374,Male,0,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,740,Yes
+Zakaria 832-18739,Female,1,No,No,46,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Credit card (automatic),95,4424,Yes
+Zakaria 833-15712,Male,0,Yes,No,9,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,88,801,No
+Zakaria 834-17651,Male,0,Yes,Yes,8,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,24,204,No
+Zakaria 835-16083,Female,0,Yes,No,59,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Credit card (automatic),81,4639,No
+Zakaria 836-19600,Male,1,No,No,33,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,55,1804,No
+Zakaria 837-15412,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),119,8672,No
+Zakaria 838-18400,Male,0,Yes,No,27,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,521,No
+Zakaria 839-15811,Female,0,Yes,Yes,36,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,718,No
+Zakaria 840-16802,Female,0,No,No,3,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,71,No
+Zakaria 841-19575,Male,0,Yes,Yes,44,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,26,1111,No
+Zakaria 842-15326,Male,0,No,Yes,13,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44,659,No
+Zakaria 843-18698,Male,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),111,7962,No
+Zakaria 844-19522,Male,1,Yes,Yes,35,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,76,2747,No
+Zakaria 845-16124,Female,0,No,No,9,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44,406,No
+Zakaria 846-16800,Male,0,Yes,No,40,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),106,4179,No
+Zakaria 847-17477,Male,1,Yes,No,36,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85,3133,Yes
+Zakaria 848-18887,Female,0,No,No,4,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),94,387,Yes
+Zakaria 849-19641,Male,0,Yes,No,64,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,105,6823,No
+Zakaria 850-12986,Female,0,Yes,No,547,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,15453,5151,No
+Zakaria 851-16434,Male,0,No,No,63,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,One year,No,Credit card (automatic),90,5826,No
+Zakaria 852-16704,Female,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69,69,Yes
+Zakaria 853-15885,Male,0,No,No,36,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),20,696,No
+Zakaria 854-17437,Female,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),99,7062,No
+Zakaria 855-18308,Male,0,Yes,Yes,70,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),98,6669,No
+Zakaria 856-15669,Female,0,Yes,Yes,17,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,94,1607,Yes
+Zakaria 857-18972,Male,1,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,819,Yes
+Zakaria 858-17063,Male,0,Yes,No,71,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),86,6046,No
+Zakaria 859-16085,Male,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1874,No
+Zakaria 860-16439,Male,0,No,No,27,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,470,No
+Zakaria 861-17177,Male,1,Yes,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,74,Yes
+Zakaria 862-17377,Male,0,Yes,No,71,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),79,5565,No
+Zakaria 863-16100,Female,0,No,No,48,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),25,1172,No
+Zakaria 864-17279,Female,1,Yes,Yes,56,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),73,4084,No
+Zakaria 865-17070,Male,0,Yes,Yes,68,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Two year,No,Bank transfer (automatic),95,6683,No
+Zakaria 866-15657,Male,1,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44,93,Yes
+Zakaria 867-16904,Female,0,No,No,39,Yes,No,DSL,No,Yes,No,No,Yes,No,One year,Yes,Credit card (automatic),59,2225,No
+Zakaria 868-16883,Female,0,No,No,13,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,84,1059,Yes
+Zakaria 869-18390,Male,0,No,No,17,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,20,280,No
+Zakaria 870-17351,Female,0,No,No,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,41,No
+Zakaria 871-16584,Female,0,No,No,47,No,Maryville,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,42,1875,No
+Zakaria 872-15857,Female,1,No,No,35,No,Maryville,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,40,1435,No
+Zakaria 873-18573,Male,0,Yes,No,12,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,74,741,No
+Zakaria 874-17857,Male,0,Yes,Yes,16,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,20,341,No
+Zakaria 875-15966,Male,1,Yes,Yes,68,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,85,5684,No
+Zakaria 876-17818,Male,1,Yes,No,71,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),96,6707,No
+Zakaria 877-16537,Female,0,Yes,Yes,55,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,56,3132,No
+Zakaria 878-19121,Female,0,No,Yes,51,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),60,3077,No
+Zakaria 879-15458,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),21,21,No
+Zakaria 880-18239,Male,0,No,No,20,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,415,No
+Zakaria 881-17337,Female,0,No,No,66,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Mailed check,47,3177,No
+Zakaria 882-19277,Male,0,Yes,Yes,61,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),21,1306,No
+Zakaria 883-16069,Male,0,Yes,Yes,50,Yes,No,DSL,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),45,2231,No
+Zakaria 884-16921,Male,0,Yes,No,45,Yes,No,DSL,Yes,No,Yes,No,No,No,Two year,No,Credit card (automatic),53,2296,No
+Zakaria 885-18491,Male,0,No,No,54,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1009,No
+Zakaria 886-17326,Male,0,No,No,27,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,563,No
+Zakaria 887-19973,Female,0,No,No,30,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),55,1531,No
+Zakaria 888-17610,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55,55,No
+Zakaria 889-19531,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Electronic check,90,6589,No
+Zakaria 890-16001,Female,0,Yes,No,69,Yes,No,DSL,No,Yes,No,No,No,Yes,Two year,Yes,Credit card (automatic),61,4131,No
+Zakaria 891-15804,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),26,1802,No
+Zakaria 892-15856,Female,0,No,No,67,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Credit card (automatic),61,3870,No
+Zakaria 893-18919,Female,0,Yes,Yes,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,200,No
+Zakaria 894-17533,Male,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),35,35,Yes
+Zakaria 895-17292,Male,0,Yes,No,2,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,76,152,Yes
+Zakaria 896-17341,Female,0,No,No,29,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,66,1912,No
+Zakaria 897-19649,Female,1,Yes,No,64,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),97,6431,No
+Zakaria 898-17547,Male,0,Yes,Yes,28,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Electronic check,106,2847,Yes
+Zakaria 899-18448,Male,1,Yes,No,6,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,81,457,No
+Zakaria 900-19779,Female,0,No,No,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),80,625,No
+Zakaria 901-15243,Male,0,Yes,No,33,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,91,2964,No
+Zakaria 902-15790,Male,0,Yes,No,69,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),61,4263,No
+Zakaria 903-17398,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,70,No
+Zakaria 904-15637,Male,0,No,No,29,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Electronic check,59,1696,No
+Zakaria 905-18296,Female,0,Yes,No,21,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),104,2200,Yes
+Zakaria 906-15188,Female,1,No,No,15,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,90,1425,Yes
+Zakaria 907-15169,Female,0,No,No,12,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),45,524,No
+Zakaria 908-15064,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,111,7752,No
+Zakaria 909-19926,Male,1,Yes,Yes,64,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),112,7099,No
+Zakaria 910-19504,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Zakaria 911-19834,Female,0,Yes,Yes,11,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,234,No
+Zakaria 912-16968,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,80,Yes
+Zakaria 913-15260,Male,0,No,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,104,542,Yes
+Zakaria 914-19125,Female,0,No,No,60,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,51,3027,Yes
+Zakaria 915-17864,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Zakaria 916-15950,Female,0,Yes,Yes,58,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,60,3624,No
+Zakaria 917-17851,Male,0,No,No,18,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,19,349,No
+Zakaria 918-16481,Male,0,Yes,No,70,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),110,7535,Yes
+Zakaria 919-19156,Female,0,Yes,Yes,12,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,230,Yes
+Zakaria 920-15747,Female,0,Yes,Yes,24,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,53,1208,No
+Zakaria 921-16185,Male,0,Yes,Yes,69,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,105,7298,No
+Zakaria 922-17060,Male,0,Yes,No,53,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,One year,No,Bank transfer (automatic),98,5043,No
+Zakaria 923-17646,Male,0,No,No,8,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,169,No
+Zakaria 924-16081,Male,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69,69,Yes
+Zakaria 925-17810,Female,0,No,No,29,No,Maryville,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,31,926,No
+Zakaria 926-18441,Male,0,No,No,12,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,67,832,No
+Zakaria 927-16949,Female,0,No,No,3,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,20,59,Yes
+Zakaria 928-18578,Female,0,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,5986,No
+Zakaria 929-19695,Female,0,Yes,Yes,68,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),60,4109,No
+Zakaria 930-18638,Female,1,No,No,13,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,1290,Yes
+Zakaria 931-19204,Female,0,No,No,6,No,Maryville,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),45,299,No
+Zakaria 932-17051,Male,0,Yes,Yes,49,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),90,4495,No
+Zakaria 933-17706,Female,0,Yes,Yes,54,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),91,4965,No
+Zakaria 934-19944,Female,1,Yes,Yes,60,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),75,4456,No
+Zakaria 935-17253,Male,1,Yes,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,86,Yes
+Zakaria 936-19268,Female,0,No,No,45,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,87,3942,Yes
+Zakaria 937-19066,Male,0,Yes,No,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,1305,No
+Zakaria 938-17450,Male,1,No,No,8,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),70,563,No
+Zakaria 939-18030,Female,0,No,No,53,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,100,5201,No
+Zakaria 940-16910,Male,0,Yes,Yes,46,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,81,3846,No
+Zakaria 941-19969,Female,0,No,Yes,17,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,65,1093,Yes
+Zakaria 942-16296,Female,1,No,No,20,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,79,1521,Yes
+Zakaria 943-15038,Male,1,No,No,50,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96,4817,Yes
+Zakaria 944-15564,Female,0,Yes,No,16,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,91,1375,No
+Zakaria 945-19039,Female,0,Yes,Yes,32,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,2724,No
+Zakaria 946-17518,Male,1,Yes,No,59,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),94,5575,Yes
+Zakaria 947-18182,Male,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,19,No
+Zakaria 948-19450,Male,1,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),102,5266,No
+Zakaria 949-16173,Female,0,Yes,Yes,52,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,1032,No
+Zakaria 950-18489,Male,0,No,No,17,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,77,1314,Yes
+Zakaria 951-16901,Male,0,No,Yes,2,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,43,No
+Zakaria 952-17141,Female,0,Yes,Yes,47,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Two year,No,Bank transfer (automatic),64,3007,No
+Zakaria 953-15313,Female,0,Yes,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),109,4854,No
+Zakaria 954-18187,Female,1,No,No,23,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,79,1835,No
+Zakaria 955-15206,Female,1,Yes,No,65,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,106,6980,Yes
+Zakaria 956-18789,Male,0,Yes,No,56,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Electronic check,93,5254,No
+Zakaria 957-19433,Male,0,Yes,Yes,71,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),71,4973,No
+Zakaria 958-16730,Male,0,Yes,Yes,24,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,One year,No,Mailed check,75,1821,No
+Zakaria 959-18123,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),114,8086,No
+Zakaria 960-16979,Female,0,Yes,Yes,22,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,55,1206,Yes
+Zakaria 961-19655,Male,0,No,No,63,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,1328,No
+Zakaria 962-15455,Male,0,Yes,Yes,41,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,798,No
+Zakaria 963-15173,Male,0,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,83,1799,No
+Zakaria 964-15382,Male,0,Yes,No,21,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),55,1125,No
+Zakaria 965-16108,Female,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,109,8110,Yes
+Zakaria 966-15184,Female,0,No,No,22,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,90,1994,Yes
+Zakaria 967-15946,Female,1,No,No,30,No,Maryville,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,40,1173,Yes
+Zakaria 968-18711,Female,0,Yes,Yes,30,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,108,3243,No
+Zakaria 969-15198,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,94,Yes
+Zakaria 970-18903,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,81,No
+Zakaria 971-17565,Male,0,No,No,9,No,Maryville,DSL,Yes,No,Yes,Yes,No,Yes,One year,No,Mailed check,51,464,No
+Zakaria 972-16306,Female,0,Yes,Yes,3,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),69,235,No
+Zakaria 973-18720,Male,0,Yes,Yes,36,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),61,2235,No
+Zakaria 974-17122,Male,0,No,No,19,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),20,387,No
+Zakaria 975-15296,Male,1,No,No,54,No,Maryville,DSL,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,55,2967,No
+Zakaria 976-19704,Female,0,No,No,12,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,220,No
+Zakaria 977-17503,Female,0,Yes,No,38,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),20,815,No
+Zakaria 978-17589,Male,0,Yes,Yes,28,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),60,1682,No
+Zakaria 979-17198,Female,0,Yes,Yes,20,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,443,No
+Zakaria 980-17832,Female,1,Yes,No,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,94,5484,No
+Zakaria 981-16046,Female,0,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),108,7807,No
+Zakaria 982-19489,Female,0,No,No,1,Yes,No,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Zakaria 983-16729,Male,0,No,No,65,Yes,Yes,other,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),25,1601,No
+Zakaria 984-15109,Male,0,Yes,Yes,47,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),113,5318,No
+Zakaria 985-19375,Female,0,No,No,20,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,407,No
+Zakaria 986-19463,Male,0,No,No,12,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,90,1022,No
+Zakaria 987-18482,Female,0,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,93,1580,No
+Zakaria 988-15138,Male,0,Yes,Yes,13,No,Maryville,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,41,590,No
+Zakaria 989-19350,Female,1,No,No,2,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,90,162,Yes
+Zakaria 990-18238,Male,0,Yes,Yes,50,Yes,Yes,DSL,No,No,Yes,No,No,No,One year,No,Bank transfer (automatic),55,2614,No
+Zakaria 991-19808,Male,0,Yes,Yes,43,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,One year,Yes,Credit card (automatic),72,3173,No
+Zakaria 992-16956,Male,0,No,No,46,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),30,1380,Yes
+Zakaria 993-15245,Female,0,Yes,Yes,4,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,81,303,Yes
+Zakaria 994-18432,Male,0,Yes,Yes,72,Yes,No,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),75,5480,No
+Zakaria 995-18020,Female,0,No,No,57,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,70,3894,No
+Zakaria 996-17305,Male,0,No,No,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),19,1415,No
+Zakaria 997-19882,Female,0,No,No,36,No,Maryville,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),31,1126,No
+Zakaria 998-19316,Male,0,No,No,3,Yes,No,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),64,196,No
+Zakaria 999-19166,Female,0,Yes,Yes,70,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),74,5222,No
